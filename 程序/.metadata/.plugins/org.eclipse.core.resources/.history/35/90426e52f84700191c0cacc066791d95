@@ -1,0 +1,49 @@
+
+public class Ckb1 {
+
+	public static void main(String[] args) {
+		int i;
+		do {
+			System.out.println("ad");
+			i=Read.readInt();
+			if(i==1)
+			{
+				 Book shu=new Book();
+				 System.out.println("请输入书名：");
+				 shu.mediaNameInput();
+				 System.out.println("请输入价格");
+				 shu.mediaPriceInput();
+				 System.out.println("请输入出版社");
+				 shu.mediaPressInput();
+				 System.out.println("请输入作者");
+				 shu.artistInput();
+			}
+			if(i==2) 
+			{
+			     CD cd=new CD();
+			     System.out.println("请输入CD名称");
+			     cd.mediaNameInput();
+			     System.out.println("请输入价格");
+			     cd.mediaPriceInput();
+			     System.out.println("请输入出版社");
+			     cd.mediaPressInput();
+			     System.out.println("请输入作者");
+			     cd.artistInput();
+			}
+			if(i==3)
+			{
+			     Tape t=new Tape();
+			     System.out.println("请输入书名：");
+			     t.mediaNameInput();
+			     System.out.println("请输入价格");
+			     t.mediaPriceInput();
+			     System.out.println("请输入出版社");
+			     t.mediaPressInput();
+			     System.out.println("请输入作者");
+			     t.artistInput();
+			}
+     
+		}while(i==0);
+	}
+
+}

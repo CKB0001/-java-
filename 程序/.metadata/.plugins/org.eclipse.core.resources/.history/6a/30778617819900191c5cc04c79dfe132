@@ -1,0 +1,16 @@
+package tuxinceshi;
+
+import java.awt.GridLayout;
+
+import javax.swing.JFrame;
+import javax.swing.JPanel;
+
+public class buju {
+	public static void main(String args[]){
+		JFrame f=new JFrame("jpane");
+		JPanel j=new JPanel();
+		j.setLayout(new GridLayout(2,1));
+		
+		new buju();
+	}
+}

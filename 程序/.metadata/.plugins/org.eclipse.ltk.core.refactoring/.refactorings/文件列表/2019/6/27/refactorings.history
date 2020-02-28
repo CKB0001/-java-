@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;文件列表.图形&apos; to &apos;tuixin&apos;&#x0D;&#x0A;- Original project: &apos;文件列表&apos;&#x0D;&#x0A;- Original element: &apos;文件列表.图形&apos;&#x0D;&#x0A;- Renamed element: &apos;文件列表.tuixin&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;图形&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;文件列表{图形.java[图形" matchStrategy="1" name="tuixin" qualified="false" references="true" similarDeclarations="false" stamp="1561880907897" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="删除资源“SuShu”" deleteContents="false" description="删除资源“SuShu”" element1="/SuShu" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1555241319227"/>&#x0A;<refactoring comment="将资源“习题（3）（3-5,11）”重命名为“习题3.3”" description="重命名资源“习题（3）（3-5,11）”" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/习题（3）（3-5,11）" name="习题3.3" stamp="1555430068146" updateReferences="true"/>
+</session>

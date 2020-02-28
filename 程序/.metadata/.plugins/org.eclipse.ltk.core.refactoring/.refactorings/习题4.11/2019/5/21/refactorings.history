@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 4 elements to &apos;习题5.8/src&apos;&#x0D;&#x0A;- Original project: &apos;习题4.11&apos;&#x0D;&#x0A;- Destination element: &apos;习题5.8/src&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     StudentXW.java&#x0D;&#x0A;     Student.java&#x0D;&#x0A;     StudentBZ.java&#x0D;&#x0A;     Zhu4_11.java" description="Copy compilation units" destination="=习题5.8/src" element1="/src&lt;{StudentXW.java" element2="/src&lt;{Student.java" element3="/src&lt;{StudentBZ.java" element4="/src&lt;{Zhu4_11.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1558243266621" units="4" version="1.0"/>
+</session>

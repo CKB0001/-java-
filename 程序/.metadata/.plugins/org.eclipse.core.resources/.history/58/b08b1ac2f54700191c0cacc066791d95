@@ -1,0 +1,39 @@
+import java.util.Date;
+public class Book {
+	String mediaName;
+    double price;
+    String press;
+    String artist;
+    void mediaNameInput()
+    {
+    	mediaName=Read.readString();
+    };
+    void mediaPriceInput() 
+    {
+    	price=Read.readDouble();
+    };
+    void mediaPressInput() 
+    {
+    	press=Read.readString();
+    };
+    void artistInput() 
+    {
+    	artist=Read.readString();
+    };
+    String editor;
+    String bookISBN;
+    Date publishDate=null;
+    void ISBNInput()
+    {
+    	bookISBN=Read.readString();
+    }
+    void editorInput()
+    {
+    	editor=Read.readString();
+    }
+    void date()
+    {
+    	publishDate=read.
+    }
+   
+}

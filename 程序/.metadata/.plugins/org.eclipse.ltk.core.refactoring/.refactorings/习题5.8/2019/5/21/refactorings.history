@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;Zhu4_11.java&apos; to &apos;Zhu5_8.java&apos;&#x0D;&#x0A;- Original project: &apos;习题5.8&apos;&#x0D;&#x0A;- Original element: &apos;Zhu4_11.java&apos;&#x0D;&#x0A;- Renamed element: &apos;Zhu5_8.java&apos;" description="Rename compilation unit &apos;Zhu4_11.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;{Zhu4_11.java" name="Zhu5_8.java" references="false" stamp="1558243314163" version="1.0"/>
+</session>
